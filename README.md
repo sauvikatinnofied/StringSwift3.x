@@ -1,3 +1,5 @@
+### Sample playground practice session to solve questions from [We ❤️Swift](https://www.weheartswift.com/strings/)
+
 ```swift```
 
 // 5.3 Replaceing occurance of a string with another one
